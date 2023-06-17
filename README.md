@@ -9,3 +9,6 @@
 
 ### Módulo 08 - Exercícios
 - [Exercício único](modulo_08_variaveis_tipos_operadores/ExercicioModulo8/src/br/com/ebacbackendjava/modulo08.md)
+
+### Módulo 09 - Exercícios
+- [Exercício único](modulo_09_tiposcomplexos_boxing_casting/ExercicioModulo9/src/br/com/ebacbackendjava/modulo09.md)
