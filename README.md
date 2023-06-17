@@ -6,3 +6,6 @@
 
 ### Módulo 07 - Exercícios
 - [Exercício Único](modulo_07_classe_metodos/ExercicioModulo7/src/br/com/ebacbackendjava/modulo07.md)
+
+### Módulo 08 - Exercícios
+- [Exercício único](modulo_08_variaveis_tipos_operadores/ExercicioModulo8/src/br/com/ebacbackendjava/modulo08.md)
