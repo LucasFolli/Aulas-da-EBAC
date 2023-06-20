@@ -12,3 +12,6 @@
 
 ### Módulo 09 - Exercícios
 - [Exercício único](modulo_09_tiposcomplexos_boxing_casting/ExercicioModulo9/src/br/com/ebacbackendjava/modulo09.md)
+
+### Módulo 10 - Exercícios
+- [Exercício único](modulo_10_controle_fluxos/ExercicioModulo10/src/br/com/ebacbackendjava/modulo10.md)
